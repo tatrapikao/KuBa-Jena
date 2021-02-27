@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/tatrapikao\/KuBa-Jena\/blob\/master\/stream.html"
+                 "value":"https:\/\/kubaccd.de\/stream.html"
                 }],
          "type":"tilelayer",
          "visible":true,
