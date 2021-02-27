@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"stream.html"
+                 "value":"https:\/\/github.com\/tatrapikao\/KuBa-Jena\/blob\/master\/stream.html"
                 }],
          "type":"tilelayer",
          "visible":true,
