@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/stream.html"
+                 "value":"stream.html"
                 }],
          "type":"tilelayer",
          "visible":true,
