@@ -44,11 +44,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"KuBaBar"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"https:\/\/thj.kiwitalk.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,11 +62,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"KuBaSofa1"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"https:\/\/thj.kiwitalk.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,11 +80,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"KuBaSofa2"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"https:\/\/thj.kiwitalk.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +136,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -302,6 +287,12 @@
  "nextlayerid":30,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"jitsiUrl",
+         "type":"string",
+         "value":"thj.kiwitalk.de"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
