@@ -46,7 +46,7 @@
                  "value":"KuBaBar"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
                  "value":"KuBaSofa1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
                  "value":"KuBaSofa2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
          "name":"Colide",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
                  "value":"kuba.html"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -142,7 +142,7 @@
                  "value":"https:\/\/live.bjelomorkanal.de\/stream"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
          "name":"Walls vertikal",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -178,7 +178,7 @@
          "name":"Walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -190,7 +190,7 @@
          "name":"Wallsextra",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
          "name":"sHADOWS",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -214,7 +214,7 @@
          "name":"sHADOWS2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -226,7 +226,7 @@
          "name":"Furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -238,7 +238,7 @@
          "name":"Bar",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -250,7 +250,7 @@
          "name":"Deko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -262,7 +262,7 @@
          "name":"Deko2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -274,7 +274,7 @@
          "name":"Deko3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -286,7 +286,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -297,7 +297,7 @@
          "name":"Lights",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -309,7 +309,7 @@
          "name":"Lights2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -321,7 +321,7 @@
          "name":"Kicker",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -333,7 +333,7 @@
          "name":"Marker",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
@@ -347,6 +347,12 @@
                  "height":288,
                  "id":1,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube-nocookie.com\/embed\/NpxLZtxDv4s"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -355,14 +361,8 @@
                  "y":1152
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/NpxLZtxDv4s"
-                }],
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
@@ -374,6 +374,26 @@
          "name":"jitsiUrl",
          "type":"string",
          "value":"thj.kiwitalk.de"
+        }, 
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"cc-by"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Cosmic Dawn ist ein Kulturverein, der sich in den Kopf gesetzt hat, frischen Wind in die Jenaer Livemusikszene zu bringen. Anfangs noch im sch\u00f6nen Black Night beheimatet, haben wir 2014 unseren eigenen Club im KuBa Jena er\u00f6ffnet.\n\nUnsere Mission: handgemachte Rockmusik nach Jena bringen! Unser Fokus liegt hierbei insbesondere auf Blues- und Psychedelic-Rock, 70s Hardrock und Stonerrock.\n\nAbgerundet wird das Ganze durch einen interessanten Mix aus Jazz, Funk, Ska und Metal durch unsere, st\u00e4ndig mit neuen Ideen aufwartenden, Veranstalter Drschz B\u00e4m, Freak Out, Culture Shock, Offbeatclub und viele andere\u2026"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"raw.githubusercontent.com\/tatrapikao\/KuBa-Jena\/master\/map.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"KuBa-Jena"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
