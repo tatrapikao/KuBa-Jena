@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"video.html"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/NpxLZtxDv4s"
                 }],
          "type":"tilelayer",
          "visible":true,
