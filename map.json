@@ -359,7 +359,7 @@
                 {
                  "name":"url",
                  "type":"string",
-                 "value":"video.html"
+                 "value":"\/video.html"
                 }],
          "type":"objectgroup",
          "visible":true,
