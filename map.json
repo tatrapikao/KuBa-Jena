@@ -168,7 +168,7 @@
                 {
                  "name":"url",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/NpxLZtxDv4s"
+                 "value":"video.html"
                 }],
          "type":"objectgroup",
          "visible":true,
