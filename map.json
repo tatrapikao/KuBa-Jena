@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/kuba-jena.de"
+                 "value":"kuba.html"
                 }],
          "type":"tilelayer",
          "visible":true,
