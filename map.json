@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.kuba-jena.de\/medien\/"
+                 "value":"video.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -359,7 +359,7 @@
                 {
                  "name":"url",
                  "type":"string",
-                 "value":"\/video.html"
+                 "value":"video.html"
                 }],
          "type":"objectgroup",
          "visible":true,
