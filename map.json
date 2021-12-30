@@ -337,34 +337,6 @@
          "width":32,
          "x":0,
          "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":34,
-         "name":"STREAM",
-         "objects":[
-                {
-                 "height":288,
-                 "id":1,
-                 "name":"Youtube-Stream",
-                 "properties":[
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/www.youtube-nocookie.com\/embed\/NpxLZtxDv4s"
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":445.333333333333,
-                 "x":514,
-                 "y":1152
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
         }],
  "nextlayerid":35,
  "nextobjectid":2,
