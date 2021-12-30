@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"kuba.html"
+                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
