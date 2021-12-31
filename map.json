@@ -344,9 +344,9 @@
          "name":"STREAM",
          "objects":[
                 {
-                 "height":286.666666666667,
+                 "height":288,
                  "id":2,
-                 "name":"",
+                 "name":"Kuba",
                  "properties":[
                         {
                          "name":"url",
@@ -354,19 +354,13 @@
                          "value":"https:\/\/kuba-jena.de"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"website",
                  "visible":true,
                  "width":448,
                  "x":512,
-                 "y":1152
+                 "y":1150.66666666667
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/kuba-jena.de"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
