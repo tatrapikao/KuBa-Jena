@@ -347,6 +347,12 @@
                  "height":286.666666666667,
                  "id":2,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/kuba-jena.de"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -367,7 +373,7 @@
          "y":0
         }],
  "nextlayerid":36,
- "nextobjectid":3,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":[
         {
