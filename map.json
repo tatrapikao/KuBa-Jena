@@ -26,6 +26,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube-nocookie.com\/embed\/NpxLZtxDv4s"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -348,6 +353,11 @@
                  "id":2,
                  "name":"Kuba",
                  "properties":[
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
                         {
                          "name":"url",
                          "type":"string",
